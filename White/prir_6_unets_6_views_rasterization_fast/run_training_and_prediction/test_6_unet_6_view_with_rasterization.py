@@ -9,7 +9,7 @@ This script:
    - MRF with ICM (β=0.1)
 
 Usage:
-    python test_p1.py --checkpoints_path /path/to/Models_WM_NEW_rec
+    python train_6_unet_6_view_with_rasterization.py --checkpoints_path /path/to/Models_WM_NEW_rec
 """
 import os
 import sys
